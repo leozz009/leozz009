@@ -2,19 +2,16 @@
   <img src="./header.001.jpeg" />
 </p>
 
-<table style="border: 0;">
-  <tr style="border: 0;">
-    <td width="140" valign="top" style="border: 0; padding: 0;">
-      <img src="./leo.gif" width="120" />
-    </td>
-    <td valign="middle" style="border: 0; padding: 0 0 0 16px;">
-      <h1>Hi there, I'm Leonardo González 👋</h1>
-      <p>
-        iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img align="left" src="./leo.gif" width="120" style="margin-right: 16px;" />
+  
+  <div>
+    <h1>Hi there, I'm Leonardo González 👋</h1>
+    <p>
+      Swift Student Challenge Distinguished Winner 2025 | iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
+    </p>
+  </div>
+</div>
 
 ---
 
