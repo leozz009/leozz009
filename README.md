@@ -2,12 +2,12 @@
   <img src="./header.001.jpeg" />
 </p>
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="140" valign="top">
+    <td width="140" valign="top" style="border: none; padding-right: 16px;">
       <img src="./leo.gif" width="120" />
     </td>
-    <td valign="middle">
+    <td valign="middle" style="border: none;">
       <h1>Hi there, I'm Leonardo González 👋</h1>
       <p>
         iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
@@ -69,12 +69,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leozz009&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leozz009&show_icons=true&theme=transparent"
+    alt="GitHub stats"
+  />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leozz009&theme=transparent" alt="GitHub streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=leozz009&theme=transparent"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
