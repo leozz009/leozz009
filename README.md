@@ -2,21 +2,17 @@
   <img src="./header.001.jpeg" />
 </p>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="140" valign="top" style="border: none; padding-right: 16px;">
-      <img src="./leo.gif" width="120" />
-    </td>
-    <td valign="middle" style="border: none;">
+<div id="header" align="left">
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <img src="./me.gif" width="120" />
+    <div>
       <h1>Hi there, I'm Leonardo González 👋</h1>
-      <p>
-        iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
+      <p style="margin-top: 4px;">
+        iOS Developer · Swift · WWDC24 Swift Student Challenge Winner
       </p>
-    </td>
-  </tr>
-</table>
-
-
+    </div>
+  </div>
+</div>
 ---
 
 ### 👨🏻‍💻 About me
@@ -40,7 +36,7 @@
 
 - **Trionda ⚽** – 2026 World Cup travel companion  
   - Helps visitors plan routes, places and experiences for the World Cup.  
-  - Uses  **MapKit**,  **Swift Data**, **Conectivity**, **Foundation Models**, and a data-driven architecture.
+  - Uses  **MapKit**,  **Swift Data**, **Multipeer Connectivity**, **Foundation Models**, and a data-driven architecture.
 
 ---
 
@@ -63,23 +59,5 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leozz009&show_icons=true&theme=transparent"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=leozz009&theme=transparent"
-    alt="GitHub streak"
-  />
-</p>
 
 ---
