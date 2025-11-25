@@ -2,52 +2,55 @@
   <img src="./header.001.jpeg" />
 </p>
 
-
-<div id="header" align="left">
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <img src="./leo.gif" width="120" />
-    <div>
+<table>
+  <tr>
+    <td width="140" valign="top">
+      <img src="./leo.gif" width="120" />
+    </td>
+    <td valign="middle">
       <h1>Hi there, I'm Leonardo González 👋</h1>
-      <p style="margin-top: 4px;">
-        iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico y de Estudios Superiores de Monterrey
+      <p>
+        iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
       </p>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### 👨🏻‍💻 About me
+
+- 🎓 7th semester **Computer Science** student at *Instituto Tecnológico y de Estudios Superiores de Monterrey*.
+- 📱 I build **iOS apps** with **Swift & SwiftUI**, focusing on great UX and accessibility.
+- 🌍 I enjoy working on apps that have **real impact** in health, education and productivity.
+- 🗣 Native Spanish speaker, improving my **English** every day.
+
+---
+
+### 🚀 What I’m working on
+
+- **Eyes 👁** – Visual health app  
+  - Winner of the **Swift Student Challenge 2025** and took me to **Apple Park / WWDC**.  
+  - Explains visual health concepts in a friendly way, using structured content and on-device intelligence.
+
+- **HealthWind 🌬** – Air quality 
+  - Uses **Core ML** + **SwiftData** to suggest habits based on air quality.  
+  - Maps (**MapKit**), metrics, and health-focused insights.
+
+- **Trionda ⚽** – 2026 World Cup travel companion  
+  - Helps visitors plan routes, places and experiences for the World Cup.  
+  - Uses  **MapKit**,  **Swift Data**, **Conectivity**, **Foundation Models**, and a data-driven architecture.
+
+---
 
 ### Programming Languages
 
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg"
-      alt="Swift"
-      title="Swift"
-      width="36"
-      height="36"
-      style="margin-right: 12px;"
-    />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
-      alt="C++"
-      title="C++"
-      width="36"
-      height="36"
-      style="margin-right: 12px;"
-    />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-      alt="Python"
-      title="Python"
-      width="36"
-      height="36"
-    />
-  </a>
-</p>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ### Technologies
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -61,11 +64,17 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/leozz009">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leozz009&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leozz009&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=<tu-usuario>&show_icons=true&theme=transparent" alt="GitHub stats" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<tu-usuario>&theme=transparent" alt="GitHub streak" />
+</p>
+
+---
