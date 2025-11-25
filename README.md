@@ -2,17 +2,20 @@
   <img src="./header.001.jpeg" />
 </p>
 
-<div id="header" align="left">
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <img src="./me.gif" width="120" />
-    <div>
+<table style="border: 0;">
+  <tr style="border: 0;">
+    <td width="140" valign="top" style="border: 0; padding: 0;">
+      <img src="./leo.gif" width="120" />
+    </td>
+    <td valign="middle" style="border: 0; padding: 0 0 0 16px;">
       <h1>Hi there, I'm Leonardo González 👋</h1>
-      <p style="margin-top: 4px;">
-        iOS Developer · Swift · WWDC24 Swift Student Challenge Winner
+      <p>
+        iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
       </p>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 👨🏻‍💻 About me
