@@ -69,12 +69,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<tu-usuario>&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leozz009&show_icons=true&theme=transparent" alt="GitHub stats" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<tu-usuario>&theme=transparent" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leozz009&theme=transparent" alt="GitHub streak" />
 </p>
 
 ---
