@@ -3,12 +3,10 @@
 </p>
 
 <div align="left">
-  <img align="left" src="./leo.gif" width="120" style="margin-right: 16px;" />
-  
+  <img src="./leo.gif" width="120" align="left" />
+
   <div>
-    <p style="font-size: 32px; font-weight: 700; margin: 0;">
-      Hi there, I'm Leonardo González 👋
-    </p>
+    <h3>Hi there, I'm Leonardo González 👋</h3>
     <p>
       Swift Student Challenge Distinguished Winner 2025 | iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
     </p>
