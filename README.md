@@ -6,7 +6,9 @@
   <img align="left" src="./leo.gif" width="120" style="margin-right: 16px;" />
   
   <div>
-    <h1>Hi there, I'm Leonardo González 👋</h1>
+    <p style="font-size: 32px; font-weight: 700; margin: 0;">
+      Hi there, I'm Leonardo González 👋
+    </p>
     <p>
       Swift Student Challenge Distinguished Winner 2025 | iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
     </p>
