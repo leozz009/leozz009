@@ -1,18 +1,13 @@
 <p align="center">
   <img src="./header.001.jpeg" />
 </p>
-
-<div align="left">
-  <img src="./leo.gif" width="120" align="left" />
-
   <div>
     <h3>Hi there, I'm Leonardo González 👋</h3>
     <p>
       Swift Student Challenge Distinguished Winner 2025 | iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
     </p>
   </div>
-</div>
-
+  
 ---
 
 ### 👨🏻‍💻 About me
