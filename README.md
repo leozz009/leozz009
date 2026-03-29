@@ -1,58 +1,82 @@
-<p align="center">
-  <img src="./header.001.jpeg" />
-</p>
-  <div>
-    <h3>Hi there, I'm Leonardo González 👋</h3>
-    <p>
-      Swift Student Challenge Distinguished Winner 2025 | iOS Developer · Swift · SwiftUI | Computer Science Student at Instituto Tecnológico de Monterrey
-    </p>
-  </div>
-  
----
+<div align="center">
+```
+`// hello world`
+```
 
-### 👨🏻‍💻 About me
+# Leonardo González
 
-- 🎓 7th semester **Computer Science** student at *Instituto Tecnológico y de Estudios Superiores de Monterrey*.
-- 📱 I build **iOS apps** with **Swift & SwiftUI**, focusing on great UX and accessibility.
-- 🌍 I enjoy working on apps that have **real impact** in health, education and productivity.
-- 🗣 Native Spanish speaker, improving my **English** every day.
+**iOS Developer · Computer Science · ITESM**
+
+[![Swift Student Challenge](https://img.shields.io/badge/🏆_Swift_Student_Challenge-Distinguished_Winner_2025-FAC775?style=flat-square&labelColor=412402)](https://developer.apple.com/swift-student-challenge/)
+
+</div>
 
 ---
 
-### 🚀 What I’m working on
+## `01` — About
 
-- **Eyes 👁** – Visual health app  
-  - Winner of the **Swift Student Challenge 2025** and took me to **Apple Park / WWDC**.  
-  - Explains visual health concepts in a friendly way, using structured content and on-device intelligence.
-
-- **HealthWind 🌬** – Air quality 
-  - Uses **Core ML** + **SwiftData** to suggest habits based on air quality.  
-  - Maps (**MapKit**), metrics, and health-focused insights.
-
-- **Trionda ⚽** – 2026 World Cup travel companion  
-  - Helps visitors plan routes, places and experiences for the World Cup.  
-  - Uses  **MapKit**,  **Swift Data**, **Multipeer Connectivity**, **Foundation Models**, and a data-driven architecture.
+| | |
+|---|---|
+| **Education** | 7th Semester, Computer Science — Instituto Tecnológico de Monterrey |
+| **Focus** | iOS · Great UX · Accessibility |
+| **Impact areas** | Health · Education · Productivity |
+| **Achievement** | Swift Student Challenge 2025 → Invited to **Apple Park / WWDC** |
+| **Languages** | Native Spanish · Improving English every day |
 
 ---
 
-### Programming Languages
+## `02` — Projects
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 👁 Eyes — Visual Health App
+> *Swift Student Challenge 2025 Winner · WWDC25 · Apple Park*
+
+Explains visual health concepts in a friendly, accessible way using structured content and on-device intelligence.
+
+`SwiftUI` `On-Device AI` `Accessibility` `Health`
+
+---
+
+### 🌬 HealthWind — Air Quality Companion
+
+Suggests healthy habits based on local air quality using on-device ML and persistent data. Interactive maps and health-focused insights.
+
+`Core ML` `SwiftData` `MapKit` `HealthKit`
 
 ---
 
-### Technologies
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### ⚽ Trionda — 2026 World Cup Travel Companion
+
+Helps World Cup visitors plan routes, places and experiences. Data-driven architecture with peer-to-peer connectivity and on-device foundation models.
+
+`MapKit` `Foundation Models` `Multipeer Connectivity` `SwiftData`
 
 ---
+
+## `03` — Stack
+
+**Languages**
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Apple Ecosystem**
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-black?style=flat-square&logo=swift&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-0071E3?style=flat-square&logo=apple&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+**Tools & Design**
+
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+<div align="center">
+<sub>Made with Swift & ambition · Monterrey, MX</sub>
+</div>
