@@ -1,0 +1,149 @@
+<svg width="860" height="1300" viewBox="0 0 860 1300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;family=Playfair+Display:ital,wght@0,700;1,400&amp;family=DM+Sans:wght@300;400;500&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="860" height="1420" fill="#ffffff" rx="16"/>
+
+  <!-- HERO -->
+  <text x="48" y="80" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="11" letter-spacing="3">// HELLO WORLD</text>
+  <text x="48" y="148" font-family="'Playfair Display', Georgia, serif" fill="#1c1c1a" font-size="68" font-weight="700" letter-spacing="-1">Leonardo</text>
+  <text x="48" y="218" font-family="'Playfair Display', Georgia, serif" fill="#aaaaaa" font-size="68" font-style="italic" font-weight="400" letter-spacing="-1">González</text>
+  <text x="48" y="258" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="15">iOS Developer | Computer Science @ ITESM</text>
+  <rect x="48" y="276" width="265" height="34" rx="17" fill="#FAC775"/>
+  <circle cx="68" cy="293" r="4" fill="#412402"/>
+  <text x="80" y="298" font-family="'JetBrains Mono', monospace" fill="#412402" font-size="10" letter-spacing="1" font-weight="700">DISTINGUISHED WINNER · SSC 2025</text>
+
+  <circle cx="620" cy="148" r="5" fill="#FA7343"/>
+  <text x="634" y="153" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="13">Swift</text>
+  <circle cx="620" cy="183" r="5" fill="#3776AB"/>
+  <text x="634" y="188" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="13">Python</text>
+  <circle cx="620" cy="218" r="5" fill="#00599C"/>
+  <text x="634" y="223" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="13">C++</text>
+
+  <line x1="48" y1="338" x2="812" y2="338" stroke="#e8e6e1" stroke-width="0.5"/>
+
+  <!-- ABOUT -->
+  <text x="48" y="372" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="10" letter-spacing="4">01 — ABOUT</text>
+
+  <rect x="48" y="390" width="370" height="100" rx="10" fill="#f5f4f0"/>
+  <text x="68" y="416" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="10" letter-spacing="2">EDUCATION</text>
+  <text x="68" y="442" font-family="'DM Sans', sans-serif" fill="#1c1c1a" font-size="15" font-weight="500">8th Semester · Computer Science</text>
+  <text x="68" y="464" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="13">Instituto Tecnológico de Monterrey</text>
+
+  <rect x="438" y="390" width="374" height="100" rx="10" fill="#f5f4f0"/>
+  <text x="458" y="416" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="10" letter-spacing="2">FOCUS</text>
+  <text x="458" y="442" font-family="'DM Sans', sans-serif" fill="#1c1c1a" font-size="15" font-weight="500">iOS Development</text>
+  <text x="458" y="464" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="13">Swift · SwiftUI</text>
+
+  <rect x="48" y="502" width="370" height="100" rx="10" fill="#f5f4f0"/>
+  <text x="68" y="528" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="10" letter-spacing="2">ACHIEVEMENT</text>
+  <text x="68" y="554" font-family="'DM Sans', sans-serif" fill="#1c1c1a" font-size="15" font-weight="500">WWDC 2025</text>
+  <text x="68" y="576" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="13">Swift Student Challenge 2025 Winner</text>
+
+  <rect x="438" y="502" width="374" height="100" rx="10" fill="#f5f4f0"/>
+  <text x="458" y="528" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="10" letter-spacing="2">LANGUAGES</text>
+  <text x="458" y="554" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="12" font-weight="500">Spanish</text>
+  <rect x="528" y="546" width="260" height="5" rx="3" fill="#e8e6e1"/>
+  <rect x="528" y="546" width="260" height="5" rx="3" fill="#1D9E75"/>
+  <text x="458" y="578" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="12" font-weight="500">English</text>
+  <rect x="528" y="570" width="260" height="5" rx="3" fill="#e8e6e1"/>
+  <rect x="528" y="570" width="180" height="5" rx="3" fill="#B5D4F4"/>
+
+  <line x1="48" y1="626" x2="812" y2="626" stroke="#e8e6e1" stroke-width="0.5"/>
+
+  <!-- PROJECTS -->
+  <text x="48" y="660" font-family="'JetBrains Mono', monospace" fill="#aaaaaa" font-size="10" letter-spacing="4">02 — PROJECTS</text>
+
+  <!-- EYES -->
+  <text x="48" y="696" font-size="16">👁</text>
+  <text x="72" y="696" font-family="'Playfair Display', Georgia, serif" fill="#1c1c1a" font-size="16" font-weight="700">Eyes</text>
+  <text x="116" y="696" font-family="'DM Sans', sans-serif" fill="#999996" font-size="12">— Eye Health Monitoring App</text>
+  <rect x="690" y="679" width="122" height="20" rx="10" fill="#FAC775"/>
+  <text x="751" y="693" font-family="'JetBrains Mono', monospace" fill="#412402" font-size="8.5" letter-spacing="0.5" text-anchor="middle" font-weight="700">🏆 WWDC 2025</text>
+
+  <circle cx="79" cy="722" r="2.5" fill="#999996"/>
+  <text x="90" y="726" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Released a production iOS app focused on eye health, offering personalized insights and visual tracking.</text>
+  <circle cx="79" cy="742" r="2.5" fill="#999996"/>
+  <text x="90" y="746" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Built structured SwiftData models to manage eye exams and prescription history with persistent storage.</text>
+  <circle cx="79" cy="762" r="2.5" fill="#999996"/>
+  <text x="90" y="766" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Integrated Foundation Models to generate context-aware educational content and personalized vision insights.</text>
+  <circle cx="79" cy="782" r="2.5" fill="#999996"/>
+  <text x="90" y="786" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Implemented Swift Charts for interactive visualizations of vision changes over time.</text>
+  <circle cx="79" cy="802" r="2.5" fill="#999996"/>
+  <text x="90" y="806" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Used TipKit to enhance onboarding and feature discovery through contextual guidance.</text>
+
+  <rect x="72" y="818" width="66" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="105" y="830" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">SwiftUI</text>
+  <rect x="146" y="818" width="116" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="204" y="830" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">Foundation Models</text>
+  <rect x="270" y="818" width="72" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="306" y="830" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">SwiftData</text>
+  <rect x="350" y="818" width="82" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="391" y="830" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">Swift Charts</text>
+  <rect x="440" y="818" width="50" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="465" y="830" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">TipKit</text>
+
+  <line x1="48" y1="850" x2="812" y2="850" stroke="#e8e6e1" stroke-width="0.5"/>
+
+  <!-- HEALTHWIND -->
+  <text x="48" y="880" font-size="16">🌬</text>
+  <text x="72" y="880" font-family="'Playfair Display', Georgia, serif" fill="#1c1c1a" font-size="16" font-weight="700">HealthWind</text>
+  <text x="184" y="880" font-family="'DM Sans', sans-serif" fill="#999996" font-size="12">— Air Quality Monitoring App</text>
+
+  <circle cx="79" cy="906" r="2.5" fill="#999996"/>
+  <text x="90" y="910" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Designed and developed an iOS app for ITESM enabling real-time air quality monitoring across Nuevo León.</text>
+  <circle cx="79" cy="926" r="2.5" fill="#999996"/>
+  <text x="90" y="930" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Integrated data from university and community sensors, measuring PM10, PM2.5, humidity, and temperature.</text>
+  <circle cx="79" cy="946" r="2.5" fill="#999996"/>
+  <text x="90" y="950" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Applied Clean Architecture with MVVM, separating Data, Domain, and Presentation layers for scalability.</text>
+  <circle cx="79" cy="966" r="2.5" fill="#999996"/>
+  <text x="90" y="970" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Implemented an interactive MapKit map showing real-time sensor locations.</text>
+  <circle cx="79" cy="986" r="2.5" fill="#999996"/>
+  <text x="90" y="990" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Built Swift Charts visualizations to analyze historical pollutant trends.</text>
+
+  <rect x="72" y="1002" width="66" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="105" y="1014" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">SwiftUI</text>
+  <rect x="146" y="1002" width="60" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="176" y="1014" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">MapKit</text>
+  <rect x="214" y="1002" width="82" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="255" y="1014" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">Swift Charts</text>
+
+  <line x1="48" y1="1034" x2="812" y2="1034" stroke="#e8e6e1" stroke-width="0.5"/>
+
+  <!-- SEED -->
+  <text x="48" y="1064" font-size="16">🌱</text>
+  <text x="72" y="1064" font-family="'Playfair Display', Georgia, serif" fill="#1c1c1a" font-size="16" font-weight="700">Seed</text>
+  <text x="122" y="1064" font-family="'DM Sans', sans-serif" fill="#999996" font-size="12">— AI-Powered Personal Finance App</text>
+
+  <circle cx="79" cy="1090" r="2.5" fill="#999996"/>
+  <text x="90" y="1094" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Developed an iOS app for frictionless income and expense tracking using voice and natural language input.</text>
+  <circle cx="79" cy="1110" r="2.5" fill="#999996"/>
+  <text x="90" y="1114" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Designed a relational SwiftData model with Transaction and Category entities for scalable financial tracking.</text>
+  <circle cx="79" cy="1130" r="2.5" fill="#999996"/>
+  <text x="90" y="1134" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Integrated Apple's Speech framework and Foundation Models to generate and categorize transactions.</text>
+  <circle cx="79" cy="1150" r="2.5" fill="#999996"/>
+  <text x="90" y="1154" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Built interactive financial analytics with Swift Charts and receipt management via VisionKit.</text>
+  <circle cx="79" cy="1170" r="2.5" fill="#999996"/>
+  <text x="90" y="1174" font-family="'DM Sans', sans-serif" fill="#aaaaaa" font-size="11.5">Enabled fast transaction entry using App Intents, Siri, and Shortcuts.</text>
+
+  <rect x="72" y="1186" width="116" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="130" y="1198" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">Foundation Models</text>
+  <rect x="196" y="1186" width="72" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="232" y="1198" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">SwiftData</text>
+  <rect x="276" y="1186" width="82" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="317" y="1198" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">Swift Charts</text>
+  <rect x="366" y="1186" width="54" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="393" y="1198" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">Speech</text>
+  <rect x="428" y="1186" width="78" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="467" y="1198" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">App Intents</text>
+  <rect x="514" y="1186" width="68" height="18" rx="9" fill="none" stroke="#ccccca" stroke-width="0.5"/>
+  <text x="548" y="1198" font-family="'JetBrains Mono', monospace" fill="#888780" font-size="9" text-anchor="middle">VisionKit</text>
+
+  <!-- FOOTER -->
+  <line x1="48" y1="1240" x2="812" y2="1240" stroke="#e8e6e1" stroke-width="0.5"/>
+  <text x="48" y="1272" font-family="'JetBrains Mono', monospace" fill="#999996" font-size="11">Made with Swift</text>
+  <text x="812" y="1272" font-family="'JetBrains Mono', monospace" fill="#999996" font-size="11" text-anchor="end">Monterrey, MX</text>
+</svg>
